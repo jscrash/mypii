@@ -1,0 +1,2 @@
+# mypii
+ Personally Identifiable Information (npii) protection tool.      Npii is implemented as a library of stored procedures that exist in     a mysql database called npii that is located on the server that has     the database(s) which contain the sensitive data we want to hide.     A table called pii that is located in the npii database contains the     description of the tables and columns that will be processed as pii     and stored seperately from the main database in a database called     &lt;main database name>_pii.
