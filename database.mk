@@ -1,0 +1,5 @@
+DATABASE=npii
+MYSQLHOST=localhost
+MYSQLUSER=julian
+MYSQLPW=julian
+MYSQLPORT=3306
